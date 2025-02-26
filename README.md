@@ -1,4 +1,4 @@
-# 人畜[[1]](./appendices/道德经.md)
+# 人畜[[1]](./appendices/tao-te-ching.md)
 
 ## 变畜
 

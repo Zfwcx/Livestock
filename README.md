@@ -1,4 +1,4 @@
-# 人畜[[1]](./appendices/道德经.md)[[2]](./appendices/长短经大体篇.md)[[3]](./appendices/罗织经.md)
+# 人畜[[1]](./appendices/道德经.md)[[2]](./appendices/长短经 - 大体篇.md)[[3]](./appendices/罗织经.md)
 
 ## 畜化
 
